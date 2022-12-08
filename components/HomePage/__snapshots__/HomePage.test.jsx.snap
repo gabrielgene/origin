@@ -1,0 +1,385 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomePage /> should render properly 1`] = `
+<div>
+  <div>
+    <div
+      class="css-11ukbgd"
+    >
+      <svg
+        fill="none"
+        height="24"
+        width="75"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g
+          clip-path="url(#a)"
+        >
+          <path
+            clip-rule="evenodd"
+            d="m35.575 20.95 2.403-2.33c2.893 2.77 7.565 2.77 10.435 0l2.403 2.33c-4.183 4.067-11.035 4.067-15.24 0ZM64.743 4.946l-.49-1.583h-2.891v13.52h3.76V10.53c0-3.583 2.38-4.287 3.715-4.22 2.737.131 2.38 3.582 2.38 4.044v6.507H75V9.563c0-3.781-1.78-6.397-5.45-6.397-2.404-.022-4.228 1.099-4.807 1.78ZM32.327 16.883V3.363h-3.626v13.52h3.626Zm25.408 0V3.363H54.11v13.52h3.626Zm-36.91-12.09-.512-1.43h-2.892v13.52h3.782v-6.837c0-2.528 2.069-3.495 4.071-3.495.49 0 .957.066 1.246.11V3.144h-.89c-2.336 0-4.182 1.055-4.805 1.648Zm-6.319 5.32c0-4.31-3.36-6.947-7.186-6.947C3.515 3.144 0 5.782 0 10.156c0 4.309 3.36 6.947 7.209 6.947 3.848 0 7.297-2.638 7.297-6.99Zm-10.79.021c0-2.132 1.446-3.803 3.604-3.803 2.158 0 3.47 1.67 3.47 3.803s-1.312 3.803-3.47 3.803c-2.158 0-3.604-1.67-3.604-3.803Zm45.32-4.33c.89 1.12 1.424 2.572 1.424 4.286 0 4.353-3.471 7.013-7.298 7.013-3.871 0-7.208-2.66-7.208-6.947 0-.418.022-.813.089-1.23.133-.77.378-1.496.734-2.177a6.263 6.263 0 0 1 1.357-1.693 7.087 7.087 0 0 1 1.802-1.187 7.824 7.824 0 0 1 2.114-.637c.89-.132 1.869-.088 2.825-.088.4 0 .757.022 1.157-.044a2.694 2.694 0 0 0 1.536-.77c.622-.615.934-1.473.934-2.33h3.47c0 2.44-1.156 4.594-2.936 5.804Zm-2.292 4.33c0-2.132-1.312-3.803-3.47-3.803-2.159 0-3.605 1.67-3.605 3.803s1.446 3.803 3.605 3.803c2.158 0 3.47-1.67 3.47-3.803Z"
+            fill="#1E2A32"
+            fill-rule="evenodd"
+          />
+        </g>
+        <defs>
+          <clippath
+            id="a"
+          >
+            <path
+              d="M0 0h75v24H0z"
+              fill="#fff"
+            />
+          </clippath>
+        </defs>
+      </svg>
+    </div>
+    <div
+      class="css-g8flp1"
+    >
+      <p
+        class="chakra-text css-2170me"
+        role="title"
+      >
+        Let's plan your 
+        <strong>
+          saving goal.
+        </strong>
+      </p>
+      <div
+        class="css-t8lj9h"
+      >
+        <div
+          class="css-1wc3ckq"
+        >
+          <svg
+            fill="none"
+            height="64"
+            width="64"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              clip-rule="evenodd"
+              d="M14.182 17.128h3.545c.506 0 .92.414.92.92v9.762c0 .506-.414.92-.92.92h-3.545a.924.924 0 0 1-.921-.92v-9.761c0-.507.414-.921.92-.921Z"
+              fill="#2F7CF8"
+              fill-rule="evenodd"
+            />
+            <path
+              clip-rule="evenodd"
+              d="M5.571 29.513 29.744 13.86a.575.575 0 0 1 .783.092l1.888 2.947c.138.276.046.598-.23.736L8.011 33.29a.575.575 0 0 1-.783-.092L5.341 30.25c-.138-.23 0-.552.23-.737Z"
+              fill="#2658CD"
+              fill-rule="evenodd"
+            />
+            <path
+              d="M60.086 45.398h-.046c-.23 0-.414.046-.645.092-.69-1.841-2.44-3.177-4.558-3.177-2.67 0-4.835 2.164-4.788 4.835 0 2.578 2.072 4.696 4.604 4.788h9.208V49.22c.047-2.072-1.657-3.776-3.775-3.822Z"
+              fill="#6EA9A1"
+            />
+            <path
+              d="M13.998 47.148c0-2.67-2.164-4.834-4.835-4.788-2.072 0-3.822 1.335-4.512 3.177a3.55 3.55 0 0 0-.69-.093h-.047A3.784 3.784 0 0 0 .14 49.313v2.717H9.347c2.579-.139 4.65-2.303 4.65-4.88Z"
+              fill="#99D3CB"
+            />
+            <path
+              clip-rule="evenodd"
+              d="m8.84 32.414 16.944-11.28V8.702l29.881 12.109-.184 31.171H9.024L8.84 32.414Z"
+              fill="#2F7CF8"
+              fill-rule="evenodd"
+            />
+            <path
+              d="M35.085 30.343a4.973 4.973 0 1 0 0-9.946 4.973 4.973 0 0 0 0 9.946Z"
+              fill="#2658CD"
+            />
+            <path
+              d="M34.764 18.278v14.274M42.084 25.416H27.856"
+              stroke="#2F7CF8"
+              stroke-width="1.151"
+            />
+            <path
+              clip-rule="evenodd"
+              d="M15.286 51.937V34.624c0-.506.415-.92.921-.92h8.104c.506 0 .92.414.92.92v17.313"
+              fill="#2658CD"
+              fill-rule="evenodd"
+            />
+            <path
+              d="M25.232 41.623h-2.67"
+              stroke="#2F7CF8"
+              stroke-width="1.151"
+            />
+            <path
+              d="M29.468 33.565h18.877c.507 0 .921.415.921.921v9.67c0 .506-.414.92-.92.92H29.467a.924.924 0 0 1-.921-.92v-9.67c0-.506.414-.92.92-.92Z"
+              fill="#2658CD"
+            />
+            <path
+              d="M35.178 32v14.274M42.59 32.46v14.274M51.936 39.597h-25"
+              stroke="#2F7CF8"
+              stroke-width="1.151"
+            />
+            <path
+              clip-rule="evenodd"
+              d="M58.152 21.088 26.382 6.676a.639.639 0 0 0-.782.184l-1.428 3.223a.536.536 0 0 0 .369.691l31.77 14.412a.639.639 0 0 0 .782-.185l1.428-3.223a.536.536 0 0 0-.369-.69Z"
+              fill="#2658CD"
+              fill-rule="evenodd"
+            />
+            <path
+              d="M43.05 26.107a7.366 7.366 0 1 0 0-14.733 7.366 7.366 0 0 0 0 14.733Z"
+              fill="#6EA9A1"
+            />
+            <path
+              d="M43.05 24.403a5.525 5.525 0 1 0 0-11.05 5.525 5.525 0 0 0 0 11.05Z"
+              fill="#99D3CB"
+            />
+            <path
+              clip-rule="evenodd"
+              d="M44.385 18.187a4.37 4.37 0 0 0-.967-.414l-.553-.276c-.23-.139-.276-.415-.138-.599.047-.092.139-.138.23-.184.093-.046.23-.046.323-.046.414-.046.829.046 1.243.23.184.092.276.046.322-.138.046-.23.139-.415.185-.645.046-.092 0-.23-.139-.276h-.046a3.886 3.886 0 0 0-.782-.23c-.369-.046-.369-.046-.369-.415 0-.506 0-.506-.506-.506h-.23c-.23 0-.277.046-.277.276v.322c0 .323 0 .323-.322.415a1.673 1.673 0 0 0-1.243 1.52c-.046.644.322 1.197.92 1.473.37.184.737.368 1.106.506.138.046.276.138.414.23.23.185.323.507.138.737-.046.092-.184.184-.276.184-.23.092-.46.138-.737.092a3.354 3.354 0 0 1-1.105-.322c-.184-.092-.276-.092-.322.138a2.596 2.596 0 0 1-.184.553c-.092.23-.046.322.184.414.322.138.645.23.967.276.276.046.276.046.276.323v.368c0 .138.092.23.184.23H43.28c.092 0 .23-.092.23-.184v-.553c0-.138.092-.276.23-.322.369-.092.737-.322.967-.598.599-.691.507-1.75-.184-2.348.092-.093-.046-.185-.138-.23Z"
+              fill="#6EA9A1"
+              fill-rule="evenodd"
+            />
+          </svg>
+          <div
+            class="css-ci461p"
+          >
+            <p
+              class="chakra-text css-1675aq9"
+            >
+              Buy a house
+            </p>
+            <p
+              class="chakra-text css-1u22hbd"
+            >
+              Saving goal
+            </p>
+          </div>
+        </div>
+        <div
+          class="css-ze949j"
+        >
+          <div
+            class="css-1ago99h"
+          >
+            <p
+              class="chakra-text css-1p9etqm"
+            >
+              Total amount
+            </p>
+            <div
+              class="chakra-input__group css-4302v8"
+            >
+              <div
+                class="chakra-input__left-element css-1hp1h2h"
+              >
+                <svg
+                  fill="none"
+                  height="24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g
+                    clip-path="url(#a)"
+                    clip-rule="evenodd"
+                    fill="#CBD5DC"
+                    fill-rule="evenodd"
+                  >
+                    <path
+                      d="M12 0a1 1 0 0 1 1 1v22a1 1 0 1 1-2 0V1a1 1 0 0 1 1-1Z"
+                    />
+                    <path
+                      d="M6.318 5.318A4.5 4.5 0 0 1 9.5 4H17a1 1 0 1 1 0 2H9.5a2.5 2.5 0 1 0 0 5h5a4.5 4.5 0 1 1 0 9H6a1 1 0 1 1 0-2h8.5a2.5 2.5 0 0 0 0-5h-5a4.5 4.5 0 0 1-3.182-7.682Z"
+                    />
+                  </g>
+                  <defs>
+                    <clippath
+                      id="a"
+                    >
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="#fff"
+                      />
+                    </clippath>
+                  </defs>
+                </svg>
+              </div>
+              <input
+                class="chakra-input css-ompe9m"
+                data-testid="amount-input"
+                id="amount"
+                name="amount"
+                placeholder="Enter amount"
+                value="0.00"
+              />
+            </div>
+          </div>
+          <div
+            class="css-wu29zy"
+          >
+            <p
+              class="chakra-text css-1p9etqm"
+            >
+              Reach goal by
+            </p>
+            <div
+              class="css-envvx0"
+              data-testid="monthly-picker"
+            >
+              <button
+                aria-label="back"
+                class="chakra-button css-1bie7w3"
+                data-testid="previous-month"
+                disabled=""
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  fill="none"
+                  focusable="false"
+                  height="24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g
+                    clip-path="url(#a)"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M15.707 5.293a1 1 0 0 1 0 1.414L10.414 12l5.293 5.293a1 1 0 0 1-1.414 1.414l-6-6a1 1 0 0 1 0-1.414l6-6a1 1 0 0 1 1.414 0Z"
+                      fill="#8A9CA9"
+                      fill-rule="evenodd"
+                    />
+                  </g>
+                  <defs>
+                    <clippath
+                      id="a"
+                    >
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="#fff"
+                      />
+                    </clippath>
+                  </defs>
+                </svg>
+              </button>
+              <div
+                class="css-1yltisf"
+              >
+                <p
+                  class="chakra-text css-ni4kz1"
+                  data-testid="month-value"
+                >
+                  January
+                </p>
+                <p
+                  class="chakra-text css-1iiun0j"
+                  data-testid="year-value"
+                >
+                  2023
+                </p>
+              </div>
+              <button
+                aria-label="next"
+                class="chakra-button css-1bie7w3"
+                data-testid="next-month"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  fill="none"
+                  focusable="false"
+                  height="24"
+                  width="24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <g
+                    clip-path="url(#a)"
+                  >
+                    <path
+                      clip-rule="evenodd"
+                      d="M8.293 5.293a1 1 0 0 1 1.414 0l6 6a1 1 0 0 1 0 1.414l-6 6a1 1 0 0 1-1.414-1.414L13.586 12 8.293 6.707a1 1 0 0 1 0-1.414Z"
+                      fill="#8A9CA9"
+                      fill-rule="evenodd"
+                    />
+                  </g>
+                  <defs>
+                    <clippath
+                      id="a"
+                    >
+                      <path
+                        d="M0 0h24v24H0z"
+                        fill="#fff"
+                      />
+                    </clippath>
+                  </defs>
+                </svg>
+              </button>
+            </div>
+            <input
+              data-testid="reachDate-input"
+              name="reachDate"
+              type="hidden"
+              value="1673049600000"
+            />
+          </div>
+        </div>
+        <div
+          class="css-i8y885"
+        >
+          <div
+            class="css-1045uzg"
+          >
+            <p
+              class="chakra-text css-1o9xnp1"
+            >
+              Monthly amount
+            </p>
+            <p
+              class="chakra-text css-znnywe"
+              data-testid="monthly-amount"
+            >
+              $
+              0.00
+            </p>
+          </div>
+          <div
+            class="css-x90rte"
+          >
+            <p
+              class="chakra-text css-12y9rbe"
+            >
+              You’re planning 
+              <strong>
+                1
+                 monthly deposits
+              </strong>
+               
+              to reach your 
+              <strong>
+                $
+                0.00
+              </strong>
+               goal by
+               
+              <strong>
+                January
+                 
+                2023
+                .
+              </strong>
+            </p>
+          </div>
+        </div>
+        <div
+          class="css-1yltisf"
+        >
+          <button
+            class="chakra-button css-re6g78"
+            type="button"
+          >
+            <p
+              class="chakra-text css-1q9tk9s"
+            >
+              Confirm
+            </p>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
