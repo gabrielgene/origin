@@ -41,7 +41,8 @@ exports[`<HomePage /> should render properly 1`] = `
         class="chakra-text css-2170me"
         role="title"
       >
-        Let's plan your 
+        Let's plan your
+         
         <strong>
           saving goal.
         </strong>

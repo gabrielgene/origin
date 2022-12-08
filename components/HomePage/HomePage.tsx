@@ -39,7 +39,7 @@ export default function HomePage() {
       <Topbar />
       <S.Wrapper>
         <S.Title role="title">
-          Let's plan your <strong>saving goal.</strong>
+          {`Let's plan your`} <strong>saving goal.</strong>
         </S.Title>
 
         <S.Card>
